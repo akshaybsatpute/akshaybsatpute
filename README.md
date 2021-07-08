@@ -1,4 +1,4 @@
-<h1 align="center">Hello!! <img src="https://github.com/akshaybsatpute/akshaybsatpute/blob/main/icons/wave.gif" alt="waving hand" width="30px">I'm Akshay Satpute 🎯️🚀️</h1>
+<h1 align="center">Hello!! <img src="icons/wave.gif" alt="waving hand" width="30px">I'm Akshay Satpute 🎯️🚀️</h1>
 
 </br>
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
