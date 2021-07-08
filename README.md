@@ -1,22 +1,53 @@
-<h1 align="center">Hi 👋, I'm Akshay Satpute</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello!! <img src="https://github.com/akshaybsatpute/akshaybsatpute/blob/main/icons/wave.gif" alt="waving hand" width="30px">I'm Akshay Satpute 🎯️🚀️</h1>
 
-- 📫 How to reach me **akshaysatpute2580@gmail.com**
+</br>
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/XcXx0WlV7L9cMKhA6G/giphy.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/akshaysatpute_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akshaysatpute_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshaybsatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshaybsatpute" height="30" width="40" /></a>
-<a href="https://instagram.com/akshaysatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshaysatpute" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aks005" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aks005" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akshaybsatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akshaybsatpute" height="30" width="40" /></a>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
+
+- I'm aspiring 🔭️ Front-End Web Developer.
+- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- Creative graphic designer with innovative ideas and a unique approach to visuals.
+
+</br>
+</br>
+<p align="center">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybsatpute&theme=radical&hide_border=true"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+</br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaybsatpute&show_icons=true&locale=en&layout=compact" alt="akshaybsatpute" /></p>
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybsatpute&show_icons=true&locale=en" alt="akshaybsatpute" /></p>
+<p align="center">
+ <img align="center" src="icons/c++.svg" width="40" height="40" alt="c++"/>
+ <img align="center" src="icons/html.svg" width="40" height="40"  alt="html"/>
+ <img align="center" src="icons/css.svg" width="40" height="40" alt="Terminal"/>
+ <img align="center" src="icons/javascript.svg" width="40" height="40" alt="Terminal"/>
+ <img align="center" src="icons/bootstrap.svg" width="40" height="40" alt="bootstrap"/>
+ <img align="center" src="icons/java.svg" width="40" height="40" alt="java"/>
+  <img align="center" src="icons/mysql.svg" width="40" height="40" alt="mysql"/>
+  <img align="center" src="icons/photoshop.svg" width="40" height="40" alt="photoshop"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaybsatpute&" alt="akshaybsatpute" /></p>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:**
+
+<p align="center">
+<a href="https://linkedin.com/in/akshaybsatpute" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="akshaybsatpute" /></a>
+<a href="https://github.com/akshaybsatpute" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="akshaybsatpute" /></a>
+<a href="https://twitter.com/akshaysatpute_" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="akshaybsatpute" /></a>
+<a href="mailto:akshaysatpute2580@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="akshaybsatpute" /></a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshabsatpute&label=Visitors&color=0088cc&style=flat-square" alt="akshabsatpute" /> </p>
+
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Readme Stats:**
+</br>
+<p align="center">
+  <a href="https://github.com/akshaybsatpute">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
+  </a>
+  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshaybsatpute&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
