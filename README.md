@@ -39,15 +39,15 @@
 <a href="mailto:akshaysatpute2580@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="akshaybsatpute" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshabsatpute&label=Visitors&color=0088cc&style=flat-square" alt="akshabsatpute" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshaybsatpute&label=Visitors&color=0088cc&style=flat-square" alt="akshabsatpute" /> </p>
 
 <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Readme Stats:**
 </br>
 <p align="center">
   <a href="https://github.com/akshaybsatpute">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Karthik-Nayak98&show_icons=true&theme=radical&count_private=true">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=akshaybsatpute&show_icons=true&theme=radical&count_private=true">
   </a>
-  <a href="https://github.com/Karthik-Nayak98/github-readme-stats">
+  <a href="https://github.com/akshaybsatpute/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=akshaybsatpute&layout=compact&theme=radical&langs_count=6" />
   </a>
  </p>
